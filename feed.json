@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gạch bông ốp tường",
+    "description": "",
+    "home_page_url": "https://gachbongoptuong.vercel.app",
+    "feed_url": "https://gachbongoptuong.vercel.app/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Gạch Bông CTS"
+    },
+    "items": [
+        {
+            "id": "https://gachbongoptuong.vercel.app/xin-chao.html",
+            "url": "https://gachbongoptuong.vercel.app/xin-chao.html",
+            "title": "Xin chào !",
+            "summary": "Hello!",
+            "content_html": "<p>Hello!</p>",
+            "author": {
+                "name": "Gạch Bông CTS"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-22T10:28:50+07:00",
+            "date_modified": "2021-10-22T10:28:50+07:00"
+        }
+    ]
+}

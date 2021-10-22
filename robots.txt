@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gachbongoptuong.vercel.app/sitemap.xml

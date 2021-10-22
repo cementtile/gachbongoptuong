@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Gạch bông ốp tường</title>
+    <link href="https://gachbongoptuong.vercel.app/feed.xml" rel="self" />
+    <link href="https://gachbongoptuong.vercel.app" />
+    <updated>2021-10-22T10:28:50+07:00</updated>
+    <author>
+        <name>Gạch Bông CTS</name>
+    </author>
+    <id>https://gachbongoptuong.vercel.app</id>
+
+    <entry>
+        <title>Xin chào !</title>
+        <author>
+            <name>Gạch Bông CTS</name>
+        </author>
+        <link href="https://gachbongoptuong.vercel.app/xin-chao.html"/>
+        <id>https://gachbongoptuong.vercel.app/xin-chao.html</id>
+
+        <updated>2021-10-22T10:28:50+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
